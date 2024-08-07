@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working in a ERP [Consistem](https://consistem.com.br/)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **ReactNative and JS**
 
-- 💬 Ask me about **ReactNative, Iris (COS) and SQL**
+- 💬 Ask me about **Iris (COS) and SQL**
 
 - 📫 How to reach me **lucas.pedr.soares@gmail.com**
 
-- ⚡ Fun fact **I really like basketball**
+- ⚡ Fun fact **I really like basketball!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
